@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The laureat Jack Squabb's history in a little drawn, down to his evening from his early dawn.</title>
+            <author>Gould, Robert, d. 1709?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41690</idno>
+            <idno type="STC">Wing G1421</idno>
+            <idno type="STC">ESTC R4429</idno>
+            <idno type="EEBO-CITATION">11146921</idno>
+            <idno type="OCLC">ocm 11146921</idno>
+            <idno type="VID">46399</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41690)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46399)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1424:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The laureat Jack Squabb's history in a little drawn, down to his evening from his early dawn.</title>
+                  <author>Gould, Robert, d. 1709?</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1687?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed by Wing and NUC pre-1956 imprints to Robert Gould.</note>
+                  <note>A satire in verse on Dryden--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dryden, John, 1631-1700 --  Poetry.</term>
+               <term>Dryden, John, 1631-1700 --  Humor.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:46399:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb n="1" facs="tcp:46399:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <head>The Laureat.</head>
+            <argument>
+               <l>
+                  <hi>Jack Squabbs</hi> Hiſtory in a little drawn,</l>
+               <l> Down to his Evening, from his early dawn.</l>
+            </argument>
+            <l>APpear, thou mighty Bard, to open view;</l>
+            <l>Which yet we muſt confeſs you need not do:</l>
+            <l>The labour to expoſe thee we may ſave,</l>
+            <l>Thou ſtand'ſt upon thy own Records, a Knave;</l>
+            <l>Condemn'd to live in thy Apoſtate Rhimes,</l>
+            <l>The Curſe of Ours, and Scoff of Future Times.</l>
+            <l>Still tacking round with every turn of State,</l>
+            <l>Reverſe to <hi>Shaf<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sbury!</hi> thy Curſed Fate.</l>
+            <l>Is always at a change to come to late:</l>
+            <l>To keep his plots from Coxcombs was his Care;</l>
+            <l>His Villany was mask'd and thine is bare:</l>
+            <l>Wiſe Men alone cou'd gueſs at his Deſign,</l>
+            <l>And cou'd but gueſs, the Thred was ſpun ſo fine;</l>
+            <l>But every purblind Fool may ſee through thine.</l>
+            <l>Had <hi>Dick</hi> ſtill kept the Regal Diadem,</l>
+            <l>Thou hadſt been Poet Laureat to him,</l>
+            <l>And, long e're now, in Lofty Verſe proclaim'd</l>
+            <l>His high Extraction, among Princes Fam'd;</l>
+            <l>Diffus'd his Glorious Deed from Pole to Pole,</l>
+            <l>Where Winds can carry, and where Waves can rowl<g ref="char:punc">▪</g>
+            </l>
+            <l>Nay; had our <hi>Charles,</hi> by Heavens ſevere Decree,</l>
+            <l>Been found, and Murther'd in the Royal Tree,</l>
+            <l>Even thou hadſt prais'd the Fact; his Father Slain,</l>
+            <l>Thou call it but gently breathing of a Vein:</l>
+            <pb n="2" facs="tcp:46399:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <l>Impious, and Villanous! to bleſs the blow</l>
+            <l>That laid at once three Lofty Nations low,</l>
+            <l>And gave the Royal Cauſe a Fatal Overthrow.</l>
+            <l>What after this cou'd we expect from thee?</l>
+            <l>What cou'd we hope for, but juſt what we ſee?</l>
+            <l>Scandal to all Religions, New and Old;</l>
+            <l>Scandal to thine, where Pardon's bought and ſold,</l>
+            <l>And Mortgag'd Happineſs Redeem'd for Gold:</l>
+            <l>Tell me, for 'tis a Truth you muſt allow,</l>
+            <l>Whoever chang'd more in one Moon, than thou?</l>
+            <l>Ev'n thy o<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Zinni</hi> was more ſtedfaſt known;</l>
+            <l>He had but one Religion, or had none:</l>
+            <l>What Sect of Chriſtians is't thou haſt not known,</l>
+            <l>And, at one time or other, made thy own?</l>
+            <l>A Briſtled <hi>Baptiſt</hi> bred; and then thy ſtrain</l>
+            <l>Immaculate, was free from ſinful ſtain.</l>
+            <l>No Songs in thoſe bleſt times thou didſt produce</l>
+            <l>To brand, and ſham good manners out of uſe:</l>
+            <l>The Ladies then had not one Bawdy Bob,</l>
+            <l>Nor thou the Courtly Name of Poet Squab.</l>
+            <l>Next, thy dull Muſe, an <hi>Independant</hi> Jade,</l>
+            <l>On Sacred Tyranny five Stanza's made</l>
+            <l>Prais'd <hi>Noll,</hi> who ev'n to both extreams did run,</l>
+            <l>To kill the Father, and dethrone the Son.</l>
+            <l>When <hi>Charles</hi> came in, thou didſt a Convert grow,</l>
+            <l>More by thy Intereſt, than thy Nature ſo.</l>
+            <l>Under his Liv'ning Beams thy Laurels ſpread;</l>
+            <l>He firſt did place that wreath about thy Head;</l>
+            <l>Kindly reliev'd thy wants, and gave thee Bread.</l>
+            <l>Here 'twas thou made'ſt the Bells of Fancy chime,</l>
+            <l>And choak'd the Town with ſuffocating Rhime.</l>
+            <l>Till Heroes, form'd by thy Creating Pen,</l>
+            <l>Were grown as Cheap, and Dull, as other men.</l>
+            <l>Fluſh'd with Succeſs, full Gallery, and Pit,</l>
+            <l>Thou braveſt all Mankind with want of Wit.</l>
+            <l>Nay, in ſhort time, wer't grown ſo proud a Ninny,</l>
+            <l>As ſcarce t' allow that <hi>Ben</hi> himſelf had any.</l>
+            <l>But when the men of Senſe thy Error ſaw,</l>
+            <l>They Check'd thy Muſe, and kept the Termagant in awe.</l>
+            <pb n="3" facs="tcp:46399:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 44 -->
+            <l>To Satyr next thy Talent was Addre<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>,</l>
+            <l>Fell foul on all, thy Friends among the reſt:</l>
+            <l>Thoſe who the oft'neſt did thy wants ſupply,</l>
+            <l>Abus'd, Traduc'd, without a Reaſon why.</l>
+            <l>Nay, ev'n thy Royal Patron was not ſpar'd,</l>
+            <l>But an obſcene, a Santring wretch declar'd.</l>
+            <l>Thy Loyal Libel we can ſtill produce,</l>
+            <l>Beyond Example, and beyond Excuſe.</l>
+            <l>O ſtrange return, to a forgiving King,</l>
+            <l>But the warm'd Viper wears the greateſt Sting.</l>
+            <l>Thy Penſion loſt, and juſtly without doubt,</l>
+            <l>When Servants ſnarl, we ought to kick 'em out;</l>
+            <l>They that diſdain their Benefactors Bread,</l>
+            <l>No longer ought by Bounty to be fed.</l>
+            <l>That loſt, the Viſor chang'd, you turn about,</l>
+            <l>And ſtrait a True blue Proteſtant crept out;</l>
+            <l>The Fryar now was writ: and ſome will ſay</l>
+            <l>They ſmell a Male-content through all the Play.</l>
+            <l>The Papiſt too was damn'd, unfit for Truſt,</l>
+            <l>Call'd Treacherous, Shameleſs, Profligate, Unjuſt,</l>
+            <l>And Kingly Power thought Arbitrary <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uit.</l>
+            <l>This laſted till thou didſt thy Penſion gain,</l>
+            <l>And that chang'd both thy Moral<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and thy ſtrain.</l>
+            <l>If to write Contradictions, Nonſenſe be,</l>
+            <l>Who has more Nonſenſe in their works than thee?</l>
+            <l>We'll mention but thy <hi>Lay-mans Faith,</hi> and <hi>Hind,</hi>
+            </l>
+            <l>Who'd think both theſe (ſuch Claſhing do we find)</l>
+            <l>Cou'd be the product of one ſingle mind:</l>
+            <l>Here, thou wou'dſt Charitable fain appear,</l>
+            <l>Find'ſt fault that <hi>Athanaſius</hi> was ſevere;</l>
+            <l>Thy Pity ſtrait to Cruelty is rais'd</l>
+            <l>And ev'n the Pious Inquiſition prais'd,</l>
+            <l>And recommended to the preſent Reign:</l>
+            <l>"O happy Countries, <hi>Italy</hi> and <hi>Spain!</hi>
+            </l>
+            <l>Have we not cauſe, in thy own words, to ſay,</l>
+            <l>Let none believe what varies every day,</l>
+            <l>That never was, nor will be at a fray.</l>
+            <l>Once, Heathens might be ſav'd, you did allow;</l>
+            <l>But not, it ſeems, we greater Heathens now:</l>
+            <pb n="4" facs="tcp:46399:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 45 -->
+            <l>The Loyal Church, that buoys the Kingly Line,</l>
+            <l>Damn'd with a breath, but 'tis ſuch a breath as thine</l>
+            <l>What Credit to thy party can it be,</l>
+            <l>T'have gain'd ſo lewd a Profligate as thee?</l>
+            <l>Stray'd from our fold, makes us but laugh, not weep;</l>
+            <l>We have but loſt what was diſgrace to keep:</l>
+            <l>By them Miſtruſted, and to us a ſcorn;</l>
+            <l>For it is weakneſs, at the beſt to Turn.</l>
+            <l>True, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t thou left us in the former Reign,</l>
+            <l>T<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad prov'd, it was not wholly do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e for Gain;</l>
+            <l>Now, t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Meridian Sun is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot ſo plain.</l>
+            <l>Gold is thy God, for a ſubſtantial ſumm,</l>
+            <l>Thou to the <hi>Turk,</hi> wou'dſt run away from <hi>Roma,</hi>
+            </l>
+            <l>And Sing his Holy Expedition againſt Chriſtendom.</l>
+            <l>But to conclude, bluſh with a laſting Red,</l>
+            <l>(If thou'rt not mov'd with what's already ſaid)</l>
+            <l>To ſee thy Boars, Bears, Buzards, Wolves and Owls,</l>
+            <l>And all thy other Beaſts, and other Fowls,</l>
+            <l>Routed by two poor Mice: (Unequal fight)</l>
+            <l>But eaſie 'tis to Conquer in the Right.</l>
+            <l>See there a Youth (a ſhame to thy gray hairs)</l>
+            <l>Make a meer Dunce of all thy threeſcore years.</l>
+            <l>What in that Tedious Poem haſt thou done,</l>
+            <l>But cramm'd all <hi>Aeſops</hi> Fables into one.</l>
+            <l>But why do I the precious minutes ſpend</l>
+            <l>On him, that wou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d much rather hang, than m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd.</l>
+            <l>No, Wretch, continue ſtill juſt as thou art,</l>
+            <l>Thou <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now in this laſt Sc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne, that Crowns thy Part;</l>
+            <l>To purchaſe Favour, veer with every Gale;</l>
+            <l>And, againſt Intereſt, never ceaſe to rail;</l>
+            <l>Tho thou'rt the only proof how Intereſt can prevail.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46399:3"/>
+            <!-- PDF PAGE 45 -->
+         </div>
+      </body>
+   </text>
+</TEI>
